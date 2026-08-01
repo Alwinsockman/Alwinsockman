@@ -65,21 +65,6 @@ React • JavaScript • HTML • CSS
 
 ---
 
-# 📂 Featured Projects
-
-### 🔹 GPA Calculator
-A React-based GPA calculator with validation and a clean user interface.
-
-### 🔹 Country Insights Dashboard
-A React application using REST APIs and interactive charts to visualize country data.
-
-### 🔹 Responsive Portfolio Website
-A personal portfolio built with React, HTML5, CSS3, and JavaScript showcasing projects and skills.
-
-> 👉 More projects coming soon...
-
----
-
 # 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alwinsockman&theme=dark)
