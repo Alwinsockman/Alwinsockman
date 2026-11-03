@@ -21,11 +21,11 @@ React • JavaScript • HTML • CSS
 <img src="https://img.shields.io/badge/Portfolio-Live-success?style=flat&logo=vercel"/>
 </a>
 
-<a href="https://linkedin.com/in/michelclerans">
+<a href="https://linkedin.com/in/michaelalwinsockman">
 <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin"/>
 </a>
 
-<a href="https://facebook.com/michaelclerans">
+<a href="https://facebook.com/michaelalwinsockman">
 <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat&logo=facebook"/>
 </a>
 
@@ -85,5 +85,5 @@ React • JavaScript • HTML • CSS
 
 - 💻 GitHub: https://github.com/Alwinsockman
 - 📧 Email: michaelalwinshockman01@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/michelclerans
-- 📘 Facebook: https://facebook.com/michaelclerans
+- 💼 LinkedIn: https://linkedin.com/in/michaelalwinsockman
+- 📘 Facebook: https://facebook.com/michaelalwin
